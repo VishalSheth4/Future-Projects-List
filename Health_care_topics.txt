@@ -1,0 +1,73 @@
+Alzheimer
+Diabeties*
+Asthama
+Heart Attack
+
+
+
+Identifying Diseases and Diagnosis (10)
+
+Personalized Treatment & Behavioral Modification (9)
+Analyze data from blood pressure, heart rate, and cholesterol level tests using neural networks - https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects.
+Prognos - early stage detection.
+Berg
+Predictive medicine: prognosis and diagnostic accuracy
+Predicting intervention onset in the ICU with switching state space models
+price optimization, merchandise supply planning, and for customer insights. (10)
+
+
+Biosymetrics
+
+EEG Seizure Prediction  -  https://github.com/garethjns/Kaggle-EEG   (7)
+kaggle-taxi-ii
+kaggle_speech_recognition (9) - https://github.com/huschen/kaggle_speech_recognition
+
+Predict_Future_Sales- (9) - https://github.com/anhquan0412/Predict_Future_Sales
+
+Machine Learning-based Behavioral Modification
+
+https://github.com/sychi77/Thoracic_Surgery_Patient_Survival (10)
+LibreHealth EHR
+https://github.com/YerevaNN/mimic3-benchmarks
+
+
+https://github.com/lahsiv22/OTM-sales
+https://github.com/renzee-r/ml-phenotype-classification
+https://github.com/renzee-r/ml-phenotype-classification
+https://github.com/ashokmuruga/IITM-MedTech-Hackathon2018/blob/master/Ashtma.ppt
+https://github.com/shivakrishna2497/Predicting-the-on-site-of-Diabetes-using-Keras-using-
+https://github.com/ashishpatel26/Pima-Indians-Diabetes-Dataset-Missing-Value-Imputation
+https://github.com/IBM/example-health-machine-learning
+https://github.com/adeshpande3/LSTM-Sentiment-Analysis
+https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition (10)
+https://www.kaggle.com/loganalive/echocardiogram-uci
+https://github.com/ismorphism/DeepECG
+https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67
+https://github.com/kb22/Heart-Disease-Prediction/blob/master/dataset.csv
+https://github.com/data2health/ehr2HPO.prj
+https://github.com/NYUMedML/DeepEHR/tree/master/images
+https://github.com/grantgasser/Alzheimers-Prediction
+https://github.com/cemtorun/EchoMyHealth
+
+DOCKER:
+https://github.com/jphall663/diabetes_use_case
+
+Store Item Demand Forecasting Challenge
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prediction of outcome of fetal congenital heart disease using a cardiovascular profile score
+https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.5177
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Brand analysis from persepective of a retailer user.
+strong enough.
+
+Fetal EHR distress classification. 
+
+

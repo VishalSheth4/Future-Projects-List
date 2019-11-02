@@ -1,0 +1,22 @@
+1) Unsupervised Clustering of Fetal Heart Rate Capstone Project Proposal - H.Ahmed
+
+2) LSTM-Based ECG Classification for Continuous Monitoring on Personal Wearable Devices
+Saadatnejad, Saeed
+Oveisi, Mohammadhosein
+Hashemi, Matin
+
+3) S t o n y B r o o k U n i v e r s i t y
+Wang, Deli
+
+4) Computational Intelligence Methods for Predicting Fetal Outcomes from Heart Rate Patterns
+Gude Divya Sampath, Vinayaka Nagendra Harikishan
+
+5) Decision tree to analyze the cardiotocogram data for fetal distress determination
+Permanasari, Adhistya Erna
+Nurlayli, Akhsin
+
+6) Comparative study to determine the reliability and accuracy of the fetal lite electronic fetal monitor when compared with conventional cardiotocography
+
+7) Intrapartum Fetal Heart Rate Monitoring: Nomenclature, Interpretation, and General Management Principles
+
+8) Open access intrapartum CTG database
